@@ -79,7 +79,7 @@ Install the required packages using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn folium dash scikit-learn
-
+```
 ## Usage
 - Clone this repository.
 - Explore the Jupyter notebooks to understand the analysis and results.
